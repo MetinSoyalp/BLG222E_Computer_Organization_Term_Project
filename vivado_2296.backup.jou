@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun May 21 16:00:32 2023
+# Process ID: 2296
+# Current directory: C:/Users/User/Desktop/corg_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2736 C:\Users\User\Desktop\corg_1\corg_1.xpr
+# Log file: C:/Users/User/Desktop/corg_1/vivado.log
+# Journal file: C:/Users/User/Desktop/corg_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/User/Desktop/corg_1/corg_1.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source Project1Test.tcl
+close_sim
+launch_simulation
+source Project1Test.tcl
+close_sim
+launch_simulation
+source Project1Test.tcl
+close_sim
+launch_simulation
+source Project1Test.tcl
+close_sim
+launch_simulation
+source Project1Test.tcl
+close_sim
+launch_simulation
+source Project1Test.tcl
+close_sim

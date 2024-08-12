@@ -1,0 +1,7 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/User/Desktop/corg_1/corg_1.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,,,,,,,
+C:/Users/User/Desktop/corg_1/corg_1.srcs/sim_1/new/modules_test.v,1684936858,verilog,,,,Project1Test;Project2Test,,,,,,,,
+C:/Users/User/Desktop/corg_1/corg_1.srcs/sources_1/new/modules.v,1684938347,verilog,,C:/Users/User/Desktop/corg_1/corg_1.srcs/sim_1/new/modules_test.v,,ALU_System;ASL;ASR;CPUSystem;CSR;LSL;LSR;Memory;adder1bit;compare;full_adder_8bit;get_and;get_nand;get_or;get_xor;is_zero;part1;part2_a;part_2b;part_2c;part_3;subtracter8bit,,,,,,,,

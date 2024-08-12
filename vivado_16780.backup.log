@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Sun May 21 15:16:48 2023
+# Process ID: 16780
+# Current directory: C:/Users/User/Desktop/corg_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent17608 C:\Users\User\Desktop\corg_1\corg_1.xpr
+# Log file: C:/Users/User/Desktop/corg_1/vivado.log
+# Journal file: C:/Users/User/Desktop/corg_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/User/Desktop/corg_1/corg_1.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2017.4/data/ip'.
+open_project: Time (s): cpu = 00:00:19 ; elapsed = 00:00:28 . Memory (MB): peak = 748.117 ; gain = 45.727
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun May 21 15:31:17 2023...
