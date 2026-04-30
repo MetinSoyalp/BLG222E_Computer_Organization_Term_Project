@@ -1,5 +1,13 @@
 # Simplified CPU Datapath Design (Verilog)
 
+## Contributors
+
+This project was developed as part of a group assignment.
+
+* Metin Soyalp
+* Yusuf Şahin
+* Giray Yıldırım
+
 ## Overview
 
 This project focuses on the design and implementation of a simplified CPU datapath using Verilog HDL. The system includes core components such as registers, register files, an Arithmetic Logic Unit (ALU), and control logic, all operating under a unified clock signal.
